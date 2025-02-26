@@ -20,7 +20,7 @@ c.twitter.com
 platform.twitter.com
 cdn.twitter.com
 
-# Google / YouTube
+# Google (General)
 www.google-analytics.com
 googleads.g.doubleclick.net
 adservice.google.com
@@ -31,6 +31,8 @@ googleusercontent.com
 s0.2mdn.net
 static.doubleclick.net
 pagead2.googlesyndication.com
+
+# YouTube
 s.ytimg.com
 youtube-ui.l.google.com
 manifest.googlevideo.com
@@ -46,6 +48,8 @@ youtube-nocookie.com
 ad.doubleclick.net
 googleads.g.doubleclick.net
 pagead2.googlesyndication.com
+
+
 
 # Amazon
 aax.amazon-adsystem.com
