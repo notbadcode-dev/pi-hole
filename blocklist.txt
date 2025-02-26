@@ -32,8 +32,6 @@ s0.2mdn.net
 static.doubleclick.net
 pagead2.googlesyndication.com
 s.ytimg.com
-youtube.com
-www.youtube.com
 youtube-ui.l.google.com
 manifest.googlevideo.com
 r1---sn-uxaxjvh-b5ue.googlevideo.com
