@@ -34,7 +34,6 @@ pagead2.googlesyndication.com
 
 # YouTube
 s.ytimg.com
-youtube-ui.l.google.com
 manifest.googlevideo.com
 r1---sn-uxaxjvh-b5ue.googlevideo.com
 r2---sn-uxaxjvh-b5ue.googlevideo.com
